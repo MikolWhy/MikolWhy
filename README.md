@@ -96,16 +96,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/MikolWhy/Zipply">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=Zipply&theme=tokyonight" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=Zipply&theme=tokyonight" />
   </a>
   <a href="https://github.com/MikolWhy/TalkBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=TalkBook&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MikolWhy/M.Y-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=M.Y-Website&theme=tokyonight" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=TalkBook&theme=tokyonight" />
   </a>
 </p>
 
