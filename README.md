@@ -105,16 +105,17 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/MikolWhy/M.Y-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=M.Y-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=M.Y-Website&theme=tokyonight" />
+  </a>
+</p>
 
 
 ---
 
 ## 📌 Highlights
 
-- Built full-stack applications with cloud deployment and data pipelines
-- Experience with SQL-heavy workflows and API-driven architectures
-- Strong focus on clean structure, readability, and maintainability
+- coming soon
+- coming soon
 
 <details>
   <summary>📈 GitHub Stats</summary>
