@@ -92,26 +92,21 @@ Here are some ideas to get you started:
 </table>
 
 ---
-
 ## ⭐ Featured Projects
 
 <p align="center">
   <a href="https://github.com/MikolWhy/Zipply">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=Zipply&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MikolWhy/B-NAV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=B-NAV&theme=tokyonight" />
+  <a href="https://github.com/MikolWhy/TalkBook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=TalkBook&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MikolWhy/TalkBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=TalkBook&theme=tokyonight" />
-  </a>
   <a href="https://github.com/MikolWhy/M.Y-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=M.Y-Website&theme=tokyonight" />
-  </a>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=M.Y-
+
 
 ---
 
