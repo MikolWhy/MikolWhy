@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Michael Yik</h1>
 <p align="center">
-  Software Engineering Graduate • Full-stack • Data + Systems • Toronto, ON
+  Software Engineering Graduate • Full-stack & Data + Systems • Looking for opportunities • Toronto, ON
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 Building product-focused full-stack projects + sharpening DS&A / system design
-- 🧠 Interests: machine learning, startups, building
-- 🧩 I like work that mixes: real users + real data + real constraints (impact, performance, security, maintainability)
+- 🔭 Building product-focused full-stack projects while sharpening DS&A and system design.
+- 🧠 Interests: machine learning, startups, street dance.
+- 🧩 I like building tools people actually want to use.
 
 ---
 
@@ -94,23 +94,24 @@ Here are some ideas to get you started:
 ---
 ## ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MikolWhy/Zipply">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=Zipply&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MikolWhy/TalkBook">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolWhy&repo=TalkBook&theme=tokyonight" />
-  </a>
-</p>
+**[Zipply](https://github.com/MikolWhy/Zipply)**  
+Job application tracking web app with analytics and visual insights (Next.js + TypeScript).
+
+**[TalkBook](https://github.com/MikolWhy/TalkBook)**  
+Local-first journaling + habit tracker with streaks/XP, mood tracking, and stats (Next.js PWA).
+
+**[M.Y-Website](https://github.com/MikolWhy/M.Y-Website)**  
+Personal portfolio website (work in progress).
 
 
 
 ---
 
-## 📌 Highlights
+## 📌 Highlights & Currently Learning
 
-- coming soon
-- coming soon
+- Educating myself on Machine Learning (Udemy), Intermediate AWS Cloud (Udemy), Full-Stack Web Development (Udemy)
+- Creating productivity tools that I'd personally use and hope to open-source for the community focused on the current job market (Zipply)
+
 
 <details>
   <summary>📈 GitHub Stats</summary>
