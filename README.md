@@ -32,64 +32,48 @@ Here are some ideas to get you started:
 
 - 🔭 Building product-focused full-stack projects while sharpening DS&A and system design.
 - 🧠 Interests: machine learning, startups, street dance.
-- 🧩 I like building tools people actually want to use.
+- 🧩 I like building tools for real users that solve real problems.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Skills & Technologies
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,cs,html,css,r" />
-    </td>
-  </tr>
+### Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![C%23](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)
 
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs" />
-    </td>
-  </tr>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
-      <span>&nbsp;•&nbsp;REST APIs</span>
-    </td>
-  </tr>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td>
-      <span>NumPy • Pandas • SQL</span>
-    </td>
-  </tr>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Cloud / DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github" />
-      <span>&nbsp;•&nbsp;Jira • Agile • OOP • WPF</span>
-    </td>
-  </tr>
-</table>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ---
 ## ⭐ Featured Projects
